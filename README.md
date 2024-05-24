@@ -1,7 +1,7 @@
 
 # Mentos Autotyper
 
-If you're tired up with typing code in Codetantra or frustrated with auto-typers that rarely work, there's a solution for you.
+If you're tired of typing code in Codetantra or frustrated with auto-typers that rarely work, there's a solution for you.
 
 Introducing Mentos, a free auto-typing software specifically designed for Codetantra and other IDEs. Mentos helps you bypass paste restrictions and allows you to paste your code with proper indentation.
 
